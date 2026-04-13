@@ -56,12 +56,13 @@ function TriageDesAvis(avis){
 console.log(TriageDesAvis(avis));
 // 5. Trouve l'avis le plus long (en nombre de caractères dans le commentaire)
 function longConmmentaire(avis){
-    let long = avis[0].commentaire;
+    let long = avis[0].commentaire; 
     for(let a of avis){
         if(a.commentaire.length > long.length){
             long = a.commentaire;
         }
     }
+    
     return long;
 }
 console.log(longConmmentaire(avis));

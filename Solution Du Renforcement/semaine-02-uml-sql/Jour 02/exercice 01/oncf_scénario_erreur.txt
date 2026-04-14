@@ -1,0 +1,5 @@
+1.Le voyageur saisit les critères de recherche (date, nombre de voyageurs, classe).
+2.Le voyageur lance la recherche.
+3.Le système ne trouve aucun train correspondant aux critères.
+4.Le système affiche un message : « Aucun train disponible ».
+5.Le voyageur modifie les critères de recherche.

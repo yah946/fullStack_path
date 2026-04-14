@@ -1,0 +1,11 @@
+1.Le voyageur saisit les critères de recherche (date, nombre de voyageurs, classe).
+2.Le voyageur lance la recherche.
+3.Le système affiche la liste des trains disponibles avec les horaires et les prix.
+4.Le voyageur sélectionne un train.
+5.Le système affiche les détails du train choisi.
+6.Le voyageur confirme la réservation.
+7.Le voyageur effectue le paiement.
+8.Le système traite le paiement via le système de paiement.
+9.Le système confirme le paiement.
+10.Le système valide la réservation.
+11.Le système génère le billet.
